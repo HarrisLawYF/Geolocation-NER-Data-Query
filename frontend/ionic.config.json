@@ -1,0 +1,7 @@
+{
+  "name": "file-upload",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
